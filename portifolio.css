@@ -34,10 +34,9 @@ body{
 }
 .dec{
    display:inline-flex;
-   gap: 60px;
+   gap: 70px;
 }
 .image{
    display:grid;
    grid-template-columns: repeat(3,1fr);
-   gap:7px
 }
